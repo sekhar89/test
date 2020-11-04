@@ -1,5 +1,3 @@
-print("i am feeling hungry")
-if hungry=="yes":
-    print("eat samosa")
-else:
-    print("just play")
+a=10
+b=20
+print(a+b)
